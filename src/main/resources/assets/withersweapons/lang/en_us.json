@@ -1,0 +1,16 @@
+{
+
+//creativetab/group
+
+"itemGroup.withersweapons":"Wither's Weapons",
+
+//items
+
+//swords
+"item.withersweapons.valorin":"True Valorin",
+"item.withersweapons.valorin_unpowered":"Valorin",
+"item.withersweapons.prime_axe_staff":"Prime Axe Staff"
+
+
+
+}

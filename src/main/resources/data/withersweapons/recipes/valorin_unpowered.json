@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "#",
+        "N"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:blackstone"
+        },
+        "N": {
+            "item": "minecraft:netherite_sword"
+        }
+    },
+    "result": {
+        "item": "withersweapons:valorin_unpowered",
+        "count": 1
+    }
+}

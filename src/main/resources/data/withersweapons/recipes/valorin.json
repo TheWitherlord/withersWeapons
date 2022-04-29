@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#N",
+        "C#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:dragon_breath"
+        },
+        "N": {
+            "item": "withersweapons:valorin_unpowered"
+        },
+        "C": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "withersweapons:valorin",
+        "count": 1
+    }
+}
